@@ -13,4 +13,4 @@ This is a recipe application with custom recipe uploads. It let's the user searc
 - Working with Babel
 - Pagination
 
-This project is part of a JavaScript course taken on udemy (The Complete JavaScript Course by Jonas Schmedtmann)
+This project is part of a JavaScript course taken on Udemy (The Complete JavaScript Course by Jonas Schmedtmann)
