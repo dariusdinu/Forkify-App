@@ -13,7 +13,7 @@ This is a recipe application with custom recipe uploads. It let's the user searc
 - Working with Babel
 - Pagination
 
-![image](https://github.com/dariusdinu/Forkify-App/assets/75120006/3105e3e5-777f-4840-8599-cc7ec7040b65)
+![image](https://github.com/dariusdinu/Forkify-App/assets/75120006/f0c0de6a-8dd9-435d-9f21-53e1e13537c7)
 
 The project is accesible via this link: https://forkify-darius-dinu.netlify.app/
 
