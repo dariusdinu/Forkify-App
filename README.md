@@ -13,4 +13,6 @@ This is a recipe application with custom recipe uploads. It let's the user searc
 - Working with Babel
 - Pagination
 
+The project is accesible via this link: https://forkify-darius-dinu.netlify.app/
+
 This project is part of a JavaScript course taken on Udemy (The Complete JavaScript Course by Jonas Schmedtmann)
